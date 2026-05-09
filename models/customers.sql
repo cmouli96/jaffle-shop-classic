@@ -1,3 +1,4 @@
+-- 2nd Comment test PR
 -- test pr
 with customers as (
 
